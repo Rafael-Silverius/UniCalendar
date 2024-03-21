@@ -24,7 +24,7 @@ $ npm run dev
 
 
 ## Team Members
-This project is conducted by :
+This project was assigned by IST College and conducted by:
 
 - Rafael Walder
 - Angjelo Gjeci
